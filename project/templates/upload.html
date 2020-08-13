@@ -1,0 +1,34 @@
+<html>
+
+<body>
+    create Post
+    <form action="http://localhost:8000/post/create" method="POST" enctype="multipart/form-data">
+        <input type="file" name="post_img" /><br>
+        <input type="text" placeholder="post descriptopn" name="post_description" /><br>
+        <input type="text" placeholder="storedID" name="store_id" /><br>
+        <input type="submit"/>
+    </form><br><br><br>
+    update store:
+    <form action="http://localhost:8000/store/update" method="POST" enctype="multipart/form-data">
+        <input type="file" name="store_img" /><br>
+        <input type="text" placeholder="store name" name="store_name" /><br>
+        <input type="text" placeholder="store descriptopn" name="store_descreption" /><br>
+        <input type="text" placeholder="store address" name="address" /><br>
+        <input type="text" placeholder="storedID" name="store_id" /><br>
+        <input type="submit"/>
+    </form><br><br><br>
+
+
+
+    
+
+    cropVideo Test:
+    <form action="http://localhost:8000/croped_video" method="POST" enctype="multipart/form-data">
+        <input type="file" name="video"/><br>
+        <input type="submit"/>
+    </form>
+
+
+</body>
+
+</html>
