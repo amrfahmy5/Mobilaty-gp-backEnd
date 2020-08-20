@@ -2,8 +2,12 @@
 <br><br>
 <p>step to run project : </p>
 1-build enviornment </p>
-2-start running project by run server.py file command:(python server.py)</p>
-3-download frontEnd and run it (follow instruction in MobilatyFrontEnd repo)</p>
+2-download yolo.h5 model and put it in /project/public/models/cropVideo <br>
+download link:https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5 <br>
+3-download cnn model (model.h5) and put it in /project/public/models/mobile_classfication <br>
+download link:https://drive.google.com/file/d/1T8N-vWIO30jAkUgvyTb08chMscHaPy02/view?usp=sharing <br>
+4-start running project by run server.py file command:(python server.py)</p>
+5-download frontEnd and run it (follow instruction in MobilatyFrontEnd repo)</p>
 "can test backend api only by insomnia attached in test file"</p>
 
 </p></p>
@@ -54,4 +58,5 @@ MySQL is an open-source relational database management system. <br>
 Colab notebooks allow you to combine executable code and rich text in a single document, along with images, HTML and more.<br>
 </p></p>
 more details in analysis file...
+
 
