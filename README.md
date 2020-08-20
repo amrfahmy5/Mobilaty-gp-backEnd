@@ -1,7 +1,7 @@
 <p>frontEnd repository:</p> https://github.com/Gom3a98/MobilatyFrontEnd
 <br><br>
 <p>step to run project : </p>
-1-build enviornment </p>
+1-build enviornment<br>
 2-download yolo.h5 model and put it in /project/public/models/cropVideo <br>
 download link:https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5 <br>
 3-download cnn model (model.h5) and put it in /project/public/models/mobile_classfication <br>
@@ -12,12 +12,12 @@ download link:https://drive.google.com/file/d/1T8N-vWIO30jAkUgvyTb08chMscHaPy02/
 
 <br><br>
 <p>Build enviornment </p>
-pip install opencv-contrib-python
-pip install opencv-contrib-python
-pip install keras==2.2.4
-pip install tensorflow==1.14.0
-pip install keras_metrics==1.1.
-pip install scikit-learn
+pip install opencv-contrib-python<br>
+pip install opencv-contrib-python<br>
+pip install keras==2.2.4<br>
+pip install tensorflow==1.14.0<br>
+pip install keras_metrics==1.1.<br>
+pip install scikit-learn<br>
 
 <br><br>
 <p>Project Specification:</p>
