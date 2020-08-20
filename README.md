@@ -6,18 +6,18 @@
 download link:https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5 <br>
 3-download cnn model (model.h5) and put it in /project/public/models/mobile_classfication <br>
 download link:https://drive.google.com/file/d/1T8N-vWIO30jAkUgvyTb08chMscHaPy02/view?usp=sharing <br>
-4-start running project by run server.py file command:(python server.py)</p>
-5-download frontEnd and run it (follow instruction in MobilatyFrontEnd repo)</p>
-"can test backend api only by insomnia attached in test file"</p>
+4-start running project by run server.py file command:(python server.py)<br>
+5-download frontEnd and run it (follow instruction in MobilatyFrontEnd repo)<br>
+"can test backend api only by insomnia attached in test file"<br>
 
-</p></p>
+<br><br>
 <p>Build enviornment </p>
-pip install opencv-contrib-python</p>
-pip install opencv-contrib-python</p>
-pip install keras==2.2.4</p>
-pip install tensorflow==1.14.0</p>
-pip install keras_metrics==1.1.</p>
-pip install scikit-learn </p>
+pip install opencv-contrib-python
+pip install opencv-contrib-python
+pip install keras==2.2.4
+pip install tensorflow==1.14.0
+pip install keras_metrics==1.1.
+pip install scikit-learn
 
 <br><br>
 <p>Project Specification:</p>
