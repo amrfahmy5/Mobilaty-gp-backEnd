@@ -1,6 +1,3 @@
 *.pyc
-*.sav
-*.csv
 *.h5
-*.pkl
-*.mp4
+
